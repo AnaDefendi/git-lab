@@ -1,0 +1,1 @@
+print("Olá, Git! Este é o meu laboratório de versionamento.")
