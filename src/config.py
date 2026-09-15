@@ -1,1 +1,1 @@
-TIMEOUT = 20 
+TIMEOUT = 25
