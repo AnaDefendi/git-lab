@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-def calcular_bonus(valor):
-    return valor * 2 
-=======
-def calcular_bonus(valor):
+def calcular_bonus(valor, tipo_cliente = "comum"):
+    if tipo_cliente == "premium":
+        return valor * 2
     return valor * 3
->>>>>>> feature/dashboard
     
