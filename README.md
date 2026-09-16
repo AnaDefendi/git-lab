@@ -1,1 +1,1 @@
-# Laboratório de Git - Do Zero ao Primeiro Push
+## Guia de Instalação e Execução Local
